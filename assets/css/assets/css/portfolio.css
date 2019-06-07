@@ -1,0 +1,73 @@
+/* 
+==========================================
+MY WORK
+========================================== 
+*/
+
+.body_2 {
+    padding: 50px 100px 75px 100px ;
+    position: relative;
+    top: -190px;
+    background-color: #728F97;
+    line-height: 2;
+    color: white;
+}
+
+/* 
+==========================================
+Body Portfolio
+========================================== 
+*/
+
+.body_3 {
+    padding: 50px 100px 75px 100px ;
+    position: relative;
+    top: -190px;
+    background-color: #A77A51;
+    line-height: 2;
+    color: white;
+}
+
+.hr-portfolio {
+    border: 5px;
+    border-top: 3px solid #B7B9B8;
+    /* border-radius: 100px; */
+    position: absolute;
+    top: 120px;
+    left: 50%;
+    transform: translate(-50%,-0);
+    width: 70%;
+    z-index: 1;
+}
+
+.port-pic {
+    height: 400px;
+    width: 400px;
+    border-radius: 2px;
+}
+
+.img {
+    margin: 30px;
+    position: relative;
+
+}
+
+.pic-box {
+    /* padding: 0 30px 0 30px; */
+    display: flex;
+    flex-wrap: wrap;
+    overflow: auto; 
+    height: 1200px;   
+
+}   
+
+aside {
+    position: absolute;
+    bottom: 15%;
+    left: 50%;
+    transform: translate(-50%,-0);
+    background-color: rgb(243, 243, 243, 0.6);
+    width: 100%;
+    text-align: center;
+    padding: 5px 0 5px 0;
+}

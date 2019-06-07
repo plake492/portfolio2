@@ -1,0 +1,30 @@
+
+a.nav-link:link
+{
+   color: white;
+   text-decoration: none;
+}
+a.nav-link:visited
+{
+   color: white;
+   text-decoration: none;
+}
+a.nav-link:hover
+{
+   color: white;
+   text-decoration: none;
+   background-color: #838080;
+   padding: 2px 5px 2px 5px;
+}
+a.nav-link:active
+{
+   color: white;
+   text-decoration: none;
+}
+
+#nohover:hover
+{
+   color: white;
+   text-decoration: none;
+   padding: 0;
+}
